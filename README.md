@@ -1,4 +1,4 @@
-# End to End Infrastructure setup
+# End to End Infrastructure setup on AWS using Terraform
 
 This terraform script will set up an end-to-end infrastructure set up which you can use for most projects.
 
