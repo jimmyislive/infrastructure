@@ -32,10 +32,13 @@ It comprises of:
 After 'terraform apply' runs succesfully, you can get the following info:
  
  `terraform output aws_eip_web_ip` - elastic ip of EC2 instance
+
  
  `terraform output aws_db_instance_address` - address of rds instance
+
  
  `terraform output aws_elasticache_cluster_node_address` - address of node in redis cluster
+
  
 ### To log into your instance:
 
